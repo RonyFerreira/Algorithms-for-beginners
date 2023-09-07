@@ -1,6 +1,4 @@
 import random
-from sorting
-
 
 
 
@@ -16,8 +14,4 @@ repeated = [7, 7, 7, 7, 7, 1, 1, 9, 9, 0, 4, 4, 4, 5, 4, 5, 7, 1,]
 
 
 
-if __name__ == '_main_':
-    lista = already_sorted
-    print(lista)  
-    selection_sort(lista)
-    print('\n ordenado:')
+s
