@@ -14,6 +14,8 @@ def selection_sort(lista):
             lista[min_index] = aux
 
 
+           
+
      
 
 
