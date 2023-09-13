@@ -14,3 +14,5 @@ def sort(array):
 array = sorted([8, 7, 5, 3, 1, 2, 9, 6, 4])
 sort(array)
 print(array)
+
+#test clone, alteração
